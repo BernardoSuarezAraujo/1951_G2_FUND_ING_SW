@@ -1,0 +1,4 @@
+Realizar un FODA analizando estas características del proyecto grupal.
+
+TÍTULO DEL PROYECTO:
+"Implementación de un sistema de listado de servicios para la empresa Muebles M&L".
